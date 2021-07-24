@@ -20,11 +20,11 @@ Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
   <a href="https://github.com/ReislerSupport/reislersondeneme">
-    <img src="https://img.shields.io/github/forks/LushaiMusic/VCsMusicBot?label=Fork&style=social">
+    <img src="https://tr.pinterest.com/pin/582019951822053281/">
     
   </a>
   <a href="https://github.com/ReislerSupport/reislersondeneme">
-    <img src="https://img.shields.io/github/stars/LushaiMusic/VCsMusicBot?style=social">
+    <img src="https://tr.pinterest.com/pin/582019951822053281/">
   </a>
 </p>
 
@@ -72,11 +72,11 @@ $ python3 -m ReislerMuzikBot
 ### Commands for Group 👥
 #### For all in group
 
-- `/oynat <song name>` - play song you requested
-- `/oynat <reply to audio>` - play replied file
-- `/doynat <song name>` - play song you requested via deezer
-- `/soynat <song name>` - play song you requested via jio saavn
-- `/ytoynat <song name>`: Directly play song via YouTube Music
+- `/cal <song name>` - play song you requested
+- `/cal <reply to audio>` - play replied file
+- `/dcal <song name>` - play song you requested via deezer
+- `/scal <song name>` - play song you requested via jio saavn
+- `/ytplay <song name>`: Directly play song via YouTube Music
 - `/playlist` - Show now playing list
 - `/current` - Show now playing
 - `/ara <song name>` - download songs you want quickly
@@ -90,7 +90,7 @@ $ python3 -m ReislerMuzikBot
 - `/dur` - pause song play
 - `/devam` - resume song play
 - `/atla` - play next song
-- `/end` - stop music play
+- `/son` - stop music play
 - `/userbotjoin` - invite assistant to your chat
 - `/userbotleave` - remove assistant from your chat
 - `/reload` - Refresh admin list
