@@ -1,9 +1,9 @@
-<h1 align="centre">VCsMusicBot v5.0</h1>
+<h1 align="centre">ReislerMuzikBot v5.0</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot">
+  <a href="https://github.com/ReislerSupport/reislersondeneme">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -41,7 +41,7 @@ Click the below button to watch the video tutorial on deploying
 
 ###  GET STRING SESSION FROM REPL RUN
 
- [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@ZauteKm/GenerateStringSession#main.py)
+ [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@AdizKaptan/GenerateStringSession-6)
 
 ### Deploy to VPS 🏃
 ```sh
