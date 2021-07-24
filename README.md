@@ -86,7 +86,7 @@ $ python3 -m ReislerMuzikBot
 - `/video <song name>` - download videos you want quickly
 
 ### Admins only 🏅
-- `/oyuncu` - open music player settings panel
+- `/oynat` - open music player settings panel
 - `/dur` - pause song play
 - `/devam` - resume song play
 - `/atla` - play next song
@@ -115,7 +115,7 @@ $ python3 -m ReislerMuzikBot
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@VCsMusicPlayer](https://t.me/VCsMusicPlayer) as Channel admin with full perms
+ 3. Add [@ReislerSupport](https://t.me/ReislerSupport) as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
