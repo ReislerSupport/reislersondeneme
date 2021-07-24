@@ -37,7 +37,7 @@ Click the below button to watch the video tutorial on deploying
 
 ### Deploy To Heroku 📡</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/LushaiMusic/VCsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ReislerSupport/reislersondeneme"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 ###  GET STRING SESSION FROM REPL RUN
 
@@ -46,13 +46,13 @@ Click the below button to watch the video tutorial on deploying
 ### Deploy to VPS 🏃
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/LushaiMusic/VCsMusicBot
-$ cd VCsMusicBot
+$ git clone https://github.com/ReislerSupport/reislersondeneme
+$ cd ReislerMuzikBot
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -r requirements.txt
 # Fork This Repo and fill local.env and config.py both with your own values.Then Start The Bot
-$ python3 -m VCsMusicBot
+$ python3 -m ReislerMuzikBot
 ```
 
 ### Features ✅
@@ -72,24 +72,24 @@ $ python3 -m VCsMusicBot
 ### Commands for Group 👥
 #### For all in group
 
-- `/play <song name>` - play song you requested
-- `/play <reply to audio>` - play replied file
-- `/dplay <song name>` - play song you requested via deezer
-- `/splay <song name>` - play song you requested via jio saavn
-- `/ytplay <song name>`: Directly play song via YouTube Music
+- `/oynat <song name>` - play song you requested
+- `/oynat <reply to audio>` - play replied file
+- `/doynat <song name>` - play song you requested via deezer
+- `/soynat <song name>` - play song you requested via jio saavn
+- `/ytoynat <song name>`: Directly play song via YouTube Music
 - `/playlist` - Show now playing list
 - `/current` - Show now playing
-- `/song <song name>` - download songs you want quickly
+- `/ara <song name>` - download songs you want quickly
 - `/search <query>` - search videos on youtube with details
 - `/deezer <song name>` - download songs you want quickly via deezer
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
 
 ### Admins only 🏅
-- `/player` - open music player settings panel
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
+- `/oyuncu` - open music player settings panel
+- `/dur` - pause song play
+- `/devam` - resume song play
+- `/atla` - play next song
 - `/end` - stop music play
 - `/userbotjoin` - invite assistant to your chat
 - `/userbotleave` - remove assistant from your chat
